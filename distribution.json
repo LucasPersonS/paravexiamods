@@ -8,9 +8,9 @@
       "description": "paravexia Running Minecraft 1.21.1 (NeoForge v21.1.1)",
       "icon": "https://r2.fivemanage.com/8Bj4LwFkFIfNCA2zw37P8/LOGO-PARAVEXIA-SIMPLE.png",
       "version": "1.0.0",
-      "address": "paravexia.redmc.com.br",
+      "address": "play.paravexia.com.br",
       "minecraftVersion": "1.21.1",
-      "mainServer": true,
+      "mainServer": false,
       "autoconnect": false,
       "modules": [
         {
@@ -31,8 +31,8 @@
               "classpath": true,
               "artifact": {
                 "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/versions__1.21.1-neoforge-21.1.1__1.21.1-neoforge-21.1.1.json",
-                "MD5": "a843ba2a5583a926860f1483664eafaa",
-                "size": 25686
+                "MD5": "d3cf208737fbba3671a0c496b8284823",
+                "size": 25685
               }
             },
             {
