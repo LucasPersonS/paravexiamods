@@ -427,6 +427,26 @@
                 "MD5": "fcc3e4df4990088c964f687b62f7c448",
                 "size": 250861
               }
+            },
+            {
+              "id": "net.minecraft:client:1.21.1-20240808.144430:srg@jar",
+              "name": "NeoForge (client-srg)",
+              "type": "Library",
+              "artifact": {
+                "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/lib__net__minecraft__client__1.21.1-20240808.144430__client-1.21.1-20240808.144430-srg.jar",
+                "MD5": "24d790d385dff0146020f1875b969e52",
+                "size": 18725656
+              }
+            },
+            {
+              "id": "net.minecraft:client:1.21.1-20240808.144430:extra@jar",
+              "name": "NeoForge (client-extra)",
+              "type": "Library",
+              "artifact": {
+                "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/lib__net__minecraft__client__1.21.1-20240808.144430__client-1.21.1-20240808.144430-extra.jar",
+                "MD5": "973b9700852b66bb7b74df75b0113db2",
+                "size": 12372293
+              }
             }
           ]
         },
