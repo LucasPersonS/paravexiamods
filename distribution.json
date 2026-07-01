@@ -37,6 +37,396 @@
                 "MD5": "3e88620f2ba80ef511d16da40165c9aa",
                 "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/versions__1.21.1-neoforge-21.1.228__1.21.1-neoforge-21.1.228.json"
               }
+            },
+            {
+              "id": "net.neoforged.fancymodloader:earlydisplay:4.0.42@jar",
+              "name": "NeoForge (earlydisplay)",
+              "type": "Library",
+              "artifact": {
+                "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/lib__net__neoforged__fancymodloader__earlydisplay__4.0.42__earlydisplay-4.0.42.jar",
+                "MD5": "6df1105e4016ee9992ca93cd0103e218",
+                "size": 261718
+              }
+            },
+            {
+              "id": "net.neoforged.fancymodloader:loader:4.0.42@jar",
+              "name": "NeoForge (loader)",
+              "type": "Library",
+              "artifact": {
+                "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/lib__net__neoforged__fancymodloader__loader__4.0.42__loader-4.0.42.jar",
+                "MD5": "1722666ba373811ef9b7022c0c4a5a73",
+                "size": 504899
+              }
+            },
+            {
+              "id": "net.neoforged.accesstransformers:at-modlauncher:10.0.1@jar",
+              "name": "NeoForge (at-modlauncher)",
+              "type": "Library",
+              "artifact": {
+                "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/lib__net__neoforged__accesstransformers__at-modlauncher__10.0.1__at-modlauncher-10.0.1.jar",
+                "MD5": "f65434f122b97b1ac8fe56ff54873b5f",
+                "size": 2347
+              }
+            },
+            {
+              "id": "net.neoforged:accesstransformers:10.0.1@jar",
+              "name": "NeoForge (accesstransformers)",
+              "type": "Library",
+              "artifact": {
+                "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/lib__net__neoforged__accesstransformers__10.0.1__accesstransformers-10.0.1.jar",
+                "MD5": "3a01a09a2b0900381dce48e118882849",
+                "size": 67234
+              }
+            },
+            {
+              "id": "net.neoforged:bus:8.0.5@jar",
+              "name": "NeoForge (bus)",
+              "type": "Library",
+              "artifact": {
+                "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/lib__net__neoforged__bus__8.0.5__bus-8.0.5.jar",
+                "MD5": "95eee080d9de7cb764adcb8fa2ecf3fb",
+                "size": 30340
+              }
+            },
+            {
+              "id": "net.neoforged:coremods:7.0.3@jar",
+              "name": "NeoForge (coremods)",
+              "type": "Library",
+              "artifact": {
+                "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/lib__net__neoforged__coremods__7.0.3__coremods-7.0.3.jar",
+                "MD5": "4527abf6b7116dae1c2178f7beab0ba2",
+                "size": 22659
+              }
+            },
+            {
+              "id": "cpw.mods:modlauncher:11.0.5@jar",
+              "name": "NeoForge (modlauncher)",
+              "type": "Library",
+              "artifact": {
+                "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/lib__cpw__mods__modlauncher__11.0.5__modlauncher-11.0.5.jar",
+                "MD5": "70fa994f64b2620d20dc325bab758d1b",
+                "size": 116486
+              }
+            },
+            {
+              "id": "net.neoforged:mergetool:2.0.0:api@jar",
+              "name": "NeoForge (mergetool)",
+              "type": "Library",
+              "artifact": {
+                "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/lib__net__neoforged__mergetool__2.0.0__mergetool-2.0.0-api.jar",
+                "MD5": "818b398f65b8dc5af802b721fd1d0b56",
+                "size": 2550
+              }
+            },
+            {
+              "id": "com.electronwill.night-config:toml:3.8.3@jar",
+              "name": "NeoForge (toml)",
+              "type": "Library",
+              "artifact": {
+                "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/lib__com__electronwill__night-config__toml__3.8.3__toml-3.8.3.jar",
+                "MD5": "71c9f7b86422f206c0d78c1a0600fd3a",
+                "size": 39516
+              }
+            },
+            {
+              "id": "com.electronwill.night-config:core:3.8.3@jar",
+              "name": "NeoForge (core)",
+              "type": "Library",
+              "artifact": {
+                "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/lib__com__electronwill__night-config__core__3.8.3__core-3.8.3.jar",
+                "MD5": "a69db71d5c9c274ff08f175d7c12cb1a",
+                "size": 382911
+              }
+            },
+            {
+              "id": "net.neoforged:JarJarSelector:0.4.1@jar",
+              "name": "NeoForge (JarJarSelector)",
+              "type": "Library",
+              "artifact": {
+                "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/lib__net__neoforged__JarJarSelector__0.4.1__JarJarSelector-0.4.1.jar",
+                "MD5": "20d1fe8972655189f69845554ee1a4d1",
+                "size": 17168
+              }
+            },
+            {
+              "id": "net.neoforged:JarJarMetadata:0.4.1@jar",
+              "name": "NeoForge (JarJarMetadata)",
+              "type": "Library",
+              "artifact": {
+                "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/lib__net__neoforged__JarJarMetadata__0.4.1__JarJarMetadata-0.4.1.jar",
+                "MD5": "c2f30969dd8b1dc8e3f78c731bd2c5c8",
+                "size": 15648
+              }
+            },
+            {
+              "id": "org.apache.maven:maven-artifact:3.8.5@jar",
+              "name": "NeoForge (maven-artifact)",
+              "type": "Library",
+              "artifact": {
+                "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/lib__org__apache__maven__maven-artifact__3.8.5__maven-artifact-3.8.5.jar",
+                "MD5": "ce473b0d9fbfd10fe147f03fe8707d67",
+                "size": 58077
+              }
+            },
+            {
+              "id": "net.jodah:typetools:0.6.3@jar",
+              "name": "NeoForge (typetools)",
+              "type": "Library",
+              "artifact": {
+                "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/lib__net__jodah__typetools__0.6.3__typetools-0.6.3.jar",
+                "MD5": "d4a375bf382f726cf1a650ccb38a736c",
+                "size": 18281
+              }
+            },
+            {
+              "id": "net.minecrell:terminalconsoleappender:1.3.0@jar",
+              "name": "NeoForge (terminalconsoleappender)",
+              "type": "Library",
+              "artifact": {
+                "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/lib__net__minecrell__terminalconsoleappender__1.3.0__terminalconsoleappender-1.3.0.jar",
+                "MD5": "179d3abaf9736dbd8fbd4fa98e1c6ea1",
+                "size": 16949
+              }
+            },
+            {
+              "id": "net.fabricmc:sponge-mixin:0.15.2+mixin.0.8.7@jar",
+              "name": "NeoForge (sponge-mixin)",
+              "type": "Library",
+              "artifact": {
+                "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/lib__net__fabricmc__sponge-mixin__0.15.2+mixin.0.8.7__sponge-mixin-0.15.2+mixin.0.8.7.jar",
+                "MD5": "4808c070bf19415a5cb4a0cb5e569b12",
+                "size": 1494751
+              }
+            },
+            {
+              "id": "org.openjdk.nashorn:nashorn-core:15.4@jar",
+              "name": "NeoForge (nashorn-core)",
+              "type": "Library",
+              "artifact": {
+                "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/lib__org__openjdk__nashorn__nashorn-core__15.4__nashorn-core-15.4.jar",
+                "MD5": "a9b3360e6a486cf62c1952c7816b7d97",
+                "size": 2167292
+              }
+            },
+            {
+              "id": "org.apache.commons:commons-lang3:3.14.0@jar",
+              "name": "NeoForge (commons-lang3)",
+              "type": "Library",
+              "artifact": {
+                "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/lib__org__apache__commons__commons-lang3__3.14.0__commons-lang3-3.14.0.jar",
+                "MD5": "4e5c3f5e6b0b965ef241d7d72ac8971f",
+                "size": 657952
+              }
+            },
+            {
+              "id": "net.sf.jopt-simple:jopt-simple:5.0.4@jar",
+              "name": "NeoForge (jopt-simple)",
+              "type": "Library",
+              "artifact": {
+                "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/lib__net__sf__jopt-simple__jopt-simple__5.0.4__jopt-simple-5.0.4.jar",
+                "MD5": "eb0d9dffe9b0eddead68fe678be76c49",
+                "size": 78146
+              }
+            },
+            {
+              "id": "org.slf4j:slf4j-api:2.0.9@jar",
+              "name": "NeoForge (slf4j-api)",
+              "type": "Library",
+              "artifact": {
+                "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/lib__org__slf4j__slf4j-api__2.0.9__slf4j-api-2.0.9.jar",
+                "MD5": "45630e54b0f0ac2b3c80462515ad8fda",
+                "size": 64579
+              }
+            },
+            {
+              "id": "org.antlr:antlr4-runtime:4.13.1@jar",
+              "name": "NeoForge (antlr4-runtime)",
+              "type": "Library",
+              "artifact": {
+                "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/lib__org__antlr__antlr4-runtime__4.13.1__antlr4-runtime-4.13.1.jar",
+                "MD5": "dd465ddb2a8dbf69eb6c94e69a0d5f0f",
+                "size": 326305
+              }
+            },
+            {
+              "id": "com.mojang:logging:1.2.7@jar",
+              "name": "NeoForge (logging)",
+              "type": "Library",
+              "artifact": {
+                "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/lib__com__mojang__logging__1.2.7__logging-1.2.7.jar",
+                "MD5": "d01ea99740509a58222a426cc36f5456",
+                "size": 15343
+              }
+            },
+            {
+              "id": "org.apache.logging.log4j:log4j-slf4j2-impl:2.22.1@jar",
+              "name": "NeoForge (log4j-slf4j2-impl)",
+              "type": "Library",
+              "artifact": {
+                "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/lib__org__apache__logging__log4j__log4j-slf4j2-impl__2.22.1__log4j-slf4j2-impl-2.22.1.jar",
+                "MD5": "82cc94f378ffb853efe084ee9bf4c463",
+                "size": 27364
+              }
+            },
+            {
+              "id": "org.apache.logging.log4j:log4j-core:2.22.1@jar",
+              "name": "NeoForge (log4j-core)",
+              "type": "Library",
+              "artifact": {
+                "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/lib__org__apache__logging__log4j__log4j-core__2.22.1__log4j-core-2.22.1.jar",
+                "MD5": "b5987ee449d4be4244e2e214683c45af",
+                "size": 1900022
+              }
+            },
+            {
+              "id": "org.apache.logging.log4j:log4j-api:2.22.1@jar",
+              "name": "NeoForge (log4j-api)",
+              "type": "Library",
+              "artifact": {
+                "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/lib__org__apache__logging__log4j__log4j-api__2.22.1__log4j-api-2.22.1.jar",
+                "MD5": "27db0eb89ae965179480df00d8d1cf03",
+                "size": 335001
+              }
+            },
+            {
+              "id": "org.jline:jline-reader:3.20.0@jar",
+              "name": "NeoForge (jline-reader)",
+              "type": "Library",
+              "artifact": {
+                "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/lib__org__jline__jline-reader__3.20.0__jline-reader-3.20.0.jar",
+                "MD5": "9ece57ca56a1688d1d09fe2c48e7a292",
+                "size": 171052
+              }
+            },
+            {
+              "id": "org.jline:jline-terminal:3.20.0@jar",
+              "name": "NeoForge (jline-terminal)",
+              "type": "Library",
+              "artifact": {
+                "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/lib__org__jline__jline-terminal__3.20.0__jline-terminal-3.20.0.jar",
+                "MD5": "e45dace437743e6b5e75c81eb455fd3e",
+                "size": 228481
+              }
+            },
+            {
+              "id": "commons-io:commons-io:2.15.1@jar",
+              "name": "NeoForge (commons-io)",
+              "type": "Library",
+              "artifact": {
+                "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/lib__commons-io__commons-io__2.15.1__commons-io-2.15.1.jar",
+                "MD5": "84351f7991a0e6722f00e96a4ccc376f",
+                "size": 501218
+              }
+            },
+            {
+              "id": "net.minecraftforge:srgutils:0.4.15@jar",
+              "name": "NeoForge (srgutils)",
+              "type": "Library",
+              "artifact": {
+                "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/lib__net__minecraftforge__srgutils__0.4.15__srgutils-0.4.15.jar",
+                "MD5": "79812fd073afe1c046bc1ea46ad28095",
+                "size": 69393
+              }
+            },
+            {
+              "id": "com.google.guava:guava:32.1.2-jre@jar",
+              "name": "NeoForge (guava)",
+              "type": "Library",
+              "artifact": {
+                "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/lib__com__google__guava__guava__32.1.2-jre__guava-32.1.2-jre.jar",
+                "MD5": "5fe031b3b35ed56182478811a931d617",
+                "size": 3041591
+              }
+            },
+            {
+              "id": "com.google.guava:failureaccess:1.0.1@jar",
+              "name": "NeoForge (failureaccess)",
+              "type": "Library",
+              "artifact": {
+                "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/lib__com__google__guava__failureaccess__1.0.1__failureaccess-1.0.1.jar",
+                "MD5": "091883993ef5bfa91da01dcc8fc52236",
+                "size": 4617
+              }
+            },
+            {
+              "id": "com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava@jar",
+              "name": "NeoForge (listenablefuture)",
+              "type": "Library",
+              "artifact": {
+                "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/lib__com__google__guava__listenablefuture__9999.0-empty-to-avoid-conflict-with-guava__listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar",
+                "MD5": "d094c22570d65e132c19cea5d352e381",
+                "size": 2199
+              }
+            },
+            {
+              "id": "com.google.code.findbugs:jsr305:3.0.2@jar",
+              "name": "NeoForge (jsr305)",
+              "type": "Library",
+              "artifact": {
+                "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/lib__com__google__code__findbugs__jsr305__3.0.2__jsr305-3.0.2.jar",
+                "MD5": "dd83accb899363c32b07d7a1b2e4ce40",
+                "size": 19936
+              }
+            },
+            {
+              "id": "org.checkerframework:checker-qual:3.33.0@jar",
+              "name": "NeoForge (checker-qual)",
+              "type": "Library",
+              "artifact": {
+                "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/lib__org__checkerframework__checker-qual__3.33.0__checker-qual-3.33.0.jar",
+                "MD5": "fc9418b779d9d57dcd52197006cbdb9b",
+                "size": 223979
+              }
+            },
+            {
+              "id": "com.google.errorprone:error_prone_annotations:2.18.0@jar",
+              "name": "NeoForge (error_prone_annotations)",
+              "type": "Library",
+              "artifact": {
+                "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/lib__com__google__errorprone__error_prone_annotations__2.18.0__error_prone_annotations-2.18.0.jar",
+                "MD5": "64145d0e7fee5a69ed7b84cf402de998",
+                "size": 16017
+              }
+            },
+            {
+              "id": "com.google.j2objc:j2objc-annotations:2.8@jar",
+              "name": "NeoForge (j2objc-annotations)",
+              "type": "Library",
+              "artifact": {
+                "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/lib__com__google__j2objc__j2objc-annotations__2.8__j2objc-annotations-2.8.jar",
+                "MD5": "c50af69b704dc91050efb98e0dff66d1",
+                "size": 9301
+              }
+            },
+            {
+              "id": "com.google.code.gson:gson:2.10.1@jar",
+              "name": "NeoForge (gson)",
+              "type": "Library",
+              "artifact": {
+                "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/lib__com__google__code__gson__gson__2.10.1__gson-2.10.1.jar",
+                "MD5": "df6097815738cb31fc56391553210843",
+                "size": 283367
+              }
+            },
+            {
+              "id": "org.codehaus.plexus:plexus-utils:3.3.0@jar",
+              "name": "NeoForge (plexus-utils)",
+              "type": "Library",
+              "artifact": {
+                "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/lib__org__codehaus__plexus__plexus-utils__3.3.0__plexus-utils-3.3.0.jar",
+                "MD5": "3ae76ff0195ada460d495efe1fb50d17",
+                "size": 263253
+              }
+            },
+            {
+              "id": "com.machinezoo.noexception:noexception:1.7.1@jar",
+              "name": "NeoForge (noexception)",
+              "type": "Library",
+              "artifact": {
+                "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/lib__com__machinezoo__noexception__noexception__1.7.1__noexception-1.7.1.jar",
+                "MD5": "fcc3e4df4990088c964f687b62f7c448",
+                "size": 250861
+              }
             }
           ]
         },
