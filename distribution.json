@@ -1020,17 +1020,6 @@
           }
         },
         {
-          "id": "nebula.forgemod:lagmod_neoforge:1.21-1.21.6@jar",
-          "name": "lagmod_neoforge-1.21-1.21.6.jar",
-          "type": "ForgeMod",
-          "classpath": false,
-          "artifact": {
-            "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/lagmod_neoforge-1.21-1.21.6.jar",
-            "MD5": "38e44fd34b1b275cfb5bfad8c8a42fd1",
-            "size": 34307
-          }
-        },
-        {
           "id": "nebula.forgemod:letsdo-api-forge:1.3.0-beta-release-forge@jar",
           "name": "letsdo-API-forge-1.3.0-beta-release-forge.jar",
           "type": "ForgeMod",
