@@ -261,17 +261,6 @@
           }
         },
         {
-          "id": "nebula.forgemod:citadel:2.7.0-1.21.1@jar",
-          "name": "citadel-2.7.0-1.21.1.jar",
-          "type": "ForgeMod",
-          "classpath": false,
-          "artifact": {
-            "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/citadel-2.7.0-1.21.1.jar",
-            "MD5": "4565267974f0b6b0dd08fedf814a9b38",
-            "size": 3033192
-          }
-        },
-        {
           "id": "nebula.forgemod:clumps-neoforge:1.21.1-19.0.0.1@jar",
           "name": "Clumps-neoforge-1.21.1-19.0.0.1.jar",
           "type": "ForgeMod",
@@ -478,17 +467,6 @@
             "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/curios-neoforge-9.1.4+1.21.0.jar",
             "MD5": "205d1ad4b44fae982f7616f8147f34eb",
             "size": 366070
-          }
-        },
-        {
-          "id": "nebula.forgemod:curios-neoforge:9.5.1+1.21.1@jar",
-          "name": "curios-neoforge-9.5.1+1.21.1.jar",
-          "type": "ForgeMod",
-          "classpath": false,
-          "artifact": {
-            "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/curios-neoforge-9.5.1+1.21.1.jar",
-            "MD5": "e8f0a3574264bb202c153b90293dc84c",
-            "size": 410690
           }
         },
         {
@@ -811,14 +789,14 @@
           }
         },
         {
-          "id": "nebula.forgemod:ias:9.0.6+1.21.1-neoforge@jar",
-          "name": "IAS-9.0.6+1.21.1-neoforge.jar",
+          "id": "nebula.forgemod:ias:9.0.7+1.21.1-neoforge@jar",
+          "name": "IAS-9.0.7+1.21.1-neoforge.jar",
           "type": "ForgeMod",
           "classpath": false,
           "artifact": {
             "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/IAS-9.0.7+1.21.1-neoforge.jar",
-            "MD5": "225028f4441d74a36ea1abedab697f56",
-            "size": 301592
+            "MD5": "6084e478a8987e2fd4c27e37aba7584f",
+            "size": 301386
           }
         },
         {
@@ -1974,17 +1952,6 @@
             "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar",
             "MD5": "d0fee8a0321c9d8978943c72cf1cfb93",
             "size": 5569717
-          }
-        },
-        {
-          "id": "nebula.forgemod:ias:9.0.7+1.21.1-neoforge@jar",
-          "name": "IAS-9.0.7+1.21.1-neoforge.jar",
-          "type": "ForgeMod",
-          "classpath": false,
-          "artifact": {
-            "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/IAS-9.0.7+1.21.1-neoforge.jar",
-            "MD5": "6084e478a8987e2fd4c27e37aba7584f",
-            "size": 301386
           }
         }
       ]
