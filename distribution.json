@@ -200,7 +200,7 @@
           "type": "ForgeMod",
           "classpath": false,
           "artifact": {
-            "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/Camerapture-1.10.12%2Bmc1.21.1-neoforge.jar",
+            "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/Camerapture-1.10.12+mc1.21.1-neoforge.jar",
             "MD5": "b996f0d1d628a0b7559122f318594817",
             "size": 1977667
           }
@@ -310,7 +310,7 @@
           "type": "ForgeMod",
           "classpath": false,
           "artifact": {
-            "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/comforts-neoforge-9.0.5%2B1.21.1.jar",
+            "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/comforts-neoforge-9.0.5+1.21.1.jar",
             "MD5": "ba7a318dcf4190a27e017eacac47427e",
             "size": 422658
           }
@@ -475,7 +475,7 @@
           "type": "ForgeMod",
           "classpath": false,
           "artifact": {
-            "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/curios-neoforge-9.1.4%2B1.21.0.jar",
+            "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/curios-neoforge-9.1.4+1.21.0.jar",
             "MD5": "205d1ad4b44fae982f7616f8147f34eb",
             "size": 366070
           }
@@ -486,7 +486,7 @@
           "type": "ForgeMod",
           "classpath": false,
           "artifact": {
-            "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/curios-neoforge-9.5.1%2B1.21.1.jar",
+            "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/curios-neoforge-9.5.1+1.21.1.jar",
             "MD5": "e8f0a3574264bb202c153b90293dc84c",
             "size": 410690
           }
@@ -530,7 +530,7 @@
           "type": "ForgeMod",
           "classpath": false,
           "artifact": {
-            "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/dynamic-fps-3.11.4%2Bminecraft-1.21.0-neoforge.jar",
+            "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar",
             "MD5": "e5ef3e5d37eedad79cf44897229fd8f2",
             "size": 220193
           }
@@ -728,7 +728,7 @@
           "type": "ForgeMod",
           "classpath": false,
           "artifact": {
-            "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/fzzy_config-0.7.6%2B1.21%2Bneoforge.jar",
+            "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/fzzy_config-0.7.6+1.21+neoforge.jar",
             "MD5": "cd0823556e6d24046bd0f4ba74cd4981",
             "size": 2369895
           }
@@ -827,7 +827,7 @@
           "type": "ForgeMod",
           "classpath": false,
           "artifact": {
-            "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/immersive_melodies-neoforge-0.6.2%2B1.21.1.jar",
+            "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/immersive_melodies-neoforge-0.6.2+1.21.1.jar",
             "MD5": "ae6e5863639f5119c0127028f42ef655",
             "size": 5520152
           }
@@ -838,7 +838,7 @@
           "type": "ForgeMod",
           "classpath": false,
           "artifact": {
-            "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/iris-neoforge-1.8.12%2Bmc1.21.1.jar",
+            "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/iris-neoforge-1.8.12+mc1.21.1.jar",
             "MD5": "6c1122aa7c2b1a4f24831e394c5b513f",
             "size": 2438548
           }
@@ -1399,7 +1399,7 @@
           "type": "ForgeMod",
           "classpath": false,
           "artifact": {
-            "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/player-animation-lib-forge-2.0.4%2B1.21.1.jar",
+            "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/player-animation-lib-forge-2.0.4+1.21.1.jar",
             "MD5": "ecb81c9479605db12a77bea774b88406",
             "size": 203149
           }
@@ -1421,7 +1421,7 @@
           "type": "ForgeMod",
           "classpath": false,
           "artifact": {
-            "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/polymorph-neoforge-1.1.0%2B1.21.1.jar",
+            "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/polymorph-neoforge-1.1.0+1.21.1.jar",
             "MD5": "2368e0c92ae882677bbf4b87418656b9",
             "size": 174972
           }
@@ -1476,7 +1476,7 @@
           "type": "ForgeMod",
           "classpath": false,
           "artifact": {
-            "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/reeses-sodium-options-neoforge-1.8.3%2Bmc1.21.4.jar",
+            "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/reeses-sodium-options-neoforge-1.8.3+mc1.21.4.jar",
             "MD5": "f3a0d7f31993d6f34e90f816f82cbcaf",
             "size": 78451
           }
@@ -1509,7 +1509,7 @@
           "type": "ForgeMod",
           "classpath": false,
           "artifact": {
-            "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/regions-unexplored-0.6%2Bbeta4-neoforge-21.1.jar",
+            "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/regions-unexplored-0.6+beta4-neoforge-21.1.jar",
             "MD5": "8c2390fcbc9e98a63ec505af51a8a2a4",
             "size": 6154310
           }
@@ -1597,7 +1597,7 @@
           "type": "ForgeMod",
           "classpath": false,
           "artifact": {
-            "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/SimpleRPC-4.1.0%2Bhotfix.1.jar",
+            "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/SimpleRPC-4.1.0+hotfix.1.jar",
             "MD5": "e0214d27a566ff470a93a81c728cafdf",
             "size": 714318
           }
@@ -1619,7 +1619,7 @@
           "type": "ForgeMod",
           "classpath": false,
           "artifact": {
-            "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/simplymore-neoforge-1.2.2%2B1.21.1.jar",
+            "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/simplymore-neoforge-1.2.2+1.21.1.jar",
             "MD5": "eb7e148c407093cfb20daa4b719073ac",
             "size": 1621297
           }
@@ -1674,7 +1674,7 @@
           "type": "ForgeMod",
           "classpath": false,
           "artifact": {
-            "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/sodium-neoforge-0.6.13%2Bmc1.21.1.jar",
+            "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/sodium-neoforge-0.6.13+mc1.21.1.jar",
             "MD5": "e5018c782d851fea76be0205b7616e5d",
             "size": 1162994
           }
@@ -1861,7 +1861,7 @@
           "type": "ForgeMod",
           "classpath": false,
           "artifact": {
-            "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/yet_another_config_lib_v3-3.8.2%2B1.21.1-neoforge.jar",
+            "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
             "MD5": "c346120062c3364a0d215c228354030e",
             "size": 1118651
           }
@@ -1916,7 +1916,7 @@
           "type": "ForgeMod",
           "classpath": false,
           "artifact": {
-            "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/adorablehamsterpets-3.6.0-1.21.1%2Bneoforge.jar",
+            "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/adorablehamsterpets-3.6.0-1.21.1+neoforge.jar",
             "MD5": "9ffc2574643c02b86c151006dadb8497",
             "size": 6217494
           }
@@ -1971,7 +1971,7 @@
           "type": "ForgeMod",
           "classpath": false,
           "artifact": {
-            "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/connector-2.0.0-beta.14%2B1.21.1-full.jar",
+            "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/connector-2.0.0-beta.14+1.21.1-full.jar",
             "MD5": "06cf27c786fe30a539b5bd23e66b62c9",
             "size": 4526785
           }
@@ -1982,7 +1982,7 @@
           "type": "ForgeMod",
           "classpath": false,
           "artifact": {
-            "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/forgified-fabric-api-0.116.7%2B2.2.4%2B1.21.1.jar",
+            "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar",
             "MD5": "d0fee8a0321c9d8978943c72cf1cfb93",
             "size": 5569717
           }
@@ -1993,7 +1993,7 @@
           "type": "ForgeMod",
           "classpath": false,
           "artifact": {
-            "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/IAS-9.0.7%2B1.21.1-neoforge.jar",
+            "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/IAS-9.0.7+1.21.1-neoforge.jar",
             "MD5": "6084e478a8987e2fd4c27e37aba7584f",
             "size": 301386
           }
