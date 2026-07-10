@@ -449,6 +449,17 @@
                 "MD5": "973b9700852b66bb7b74df75b0113db2",
                 "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/lib__net__minecraft__client__1.21.1-20240808.144430__client-1.21.1-20240808.144430-extra.jar"
               }
+            },
+            {
+              "id": "net.neoforged:neoforge:21.1.228:client@jar",
+              "name": "NeoForge (neoforge-client)",
+              "type": "Library",
+              "classpath": false,
+              "artifact": {
+                "size": 5670816,
+                "MD5": "82f0d21e4f40f35a7c29bcb5c000b9a4",
+                "url": "https://github.com/LucasPersonS/paravexiamods/releases/download/1.0.0/lib__net__neoforged__neoforge__21.1.228__neoforge-21.1.228-client.jar"
+              }
             }
           ]
         },
